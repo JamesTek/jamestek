@@ -14,13 +14,13 @@ keep_files:
 
 
 # Site settings
-title: Airspace
+title: JamesTek Consulting
 subtitle: "A free HTML5 agency template"
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+cover: "https://images.wallpaperscraft.com/image/blue_light_line_65813_2560x1440.jpg"
+logo: "https://images.wallpaperscraft.com/image/blue_light_line_65813_2560x1440.jpg"
 
 # Build settings
 markdown: kramdown
